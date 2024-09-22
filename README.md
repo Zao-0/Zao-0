@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, QUANTUM COMPUTING, QUANTUM-MANYBODY SYSTEM SIMULATION
 - 🌱 I’m currently learning Quantum Science and Technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mika_liu@qq.com
+- 📫 How to reach me mika_liu@qq.com; mika.liu.1999@gmail.com
 
 <!---
 Zao-0/Zao-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
