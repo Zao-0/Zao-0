@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zao-0
-- 👀 I’m interested in ML, QUANTUM COMPUTING, QUANTUM-MANYBODY SYSTEM SIMULATION
+- 👀 I’m interested in QML, QUANTUM COMPUTING, QUANTUM-MANYBODY SYSTEM SIMULATION
 - 🌱 I’m currently learning Quantum Science and Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mika_liu@qq.com; mika.liu.1999@gmail.com
